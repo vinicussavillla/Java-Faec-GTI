@@ -20,7 +20,3 @@ public class Atividade01 {
         System.out.println("Sou estudande na área de Gestão da Tecnologia da Iformação");
     }
 }
-
-
-
-
